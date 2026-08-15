@@ -8,6 +8,7 @@ e exploração de diferentes bibliotecas e ferramentas do ecossistema Python.
 
 ## Projetos
 
+- Simulação de sinais de EEG (ondas Delta, Alpha e Beta) e adição de ruídos
 - Análise de preços de gasolina e etanol (2004–2021)
 - Outros experimentos e estudos em Python
 
